@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://hamosapiens.github.io/csb-ujn16/static/css/main.801207de.chunk.css",
+    "main.js": "https://hamosapiens.github.io/csb-ujn16/static/js/main.5bcfed58.chunk.js",
+    "main.js.map": "https://hamosapiens.github.io/csb-ujn16/static/js/main.5bcfed58.chunk.js.map",
+    "runtime-main.js": "https://hamosapiens.github.io/csb-ujn16/static/js/runtime-main.35b29fd0.js",
+    "runtime-main.js.map": "https://hamosapiens.github.io/csb-ujn16/static/js/runtime-main.35b29fd0.js.map",
+    "static/js/2.47660161.chunk.js": "https://hamosapiens.github.io/csb-ujn16/static/js/2.47660161.chunk.js",
+    "static/js/2.47660161.chunk.js.map": "https://hamosapiens.github.io/csb-ujn16/static/js/2.47660161.chunk.js.map",
+    "static/js/3.0ac68d98.chunk.js": "https://hamosapiens.github.io/csb-ujn16/static/js/3.0ac68d98.chunk.js",
+    "static/js/3.0ac68d98.chunk.js.map": "https://hamosapiens.github.io/csb-ujn16/static/js/3.0ac68d98.chunk.js.map",
+    "index.html": "https://hamosapiens.github.io/csb-ujn16/index.html",
+    "precache-manifest.ec2f09d4cb61ebda9019eb229f1e6169.js": "https://hamosapiens.github.io/csb-ujn16/precache-manifest.ec2f09d4cb61ebda9019eb229f1e6169.js",
+    "service-worker.js": "https://hamosapiens.github.io/csb-ujn16/service-worker.js",
+    "static/css/main.801207de.chunk.css.map": "https://hamosapiens.github.io/csb-ujn16/static/css/main.801207de.chunk.css.map",
+    "static/js/2.47660161.chunk.js.LICENSE.txt": "https://hamosapiens.github.io/csb-ujn16/static/js/2.47660161.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35b29fd0.js",
+    "static/js/2.47660161.chunk.js",
+    "static/css/main.801207de.chunk.css",
+    "static/js/main.5bcfed58.chunk.js"
+  ]
+}
